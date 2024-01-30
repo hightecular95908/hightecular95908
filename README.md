@@ -99,7 +99,7 @@ Feel free to contact me if you need any help.<br>
 
 ### My Projects 🙌
 
-#### [See in Portfolio](https://bufan-ai-portfolio.vercel.app/)
+<!-- #### [See in Portfolio](https://bufan-ai-portfolio.vercel.app/) -->
 
 ### 👨‍💻 Top Languages Used:
 <p align="center">
