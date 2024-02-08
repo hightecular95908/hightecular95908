@@ -1,25 +1,4 @@
-<!-- ![NewTopWave](https://user-images.githubusercontent.com/81550376/180223627-d18d8aeb-4f5e-4715-94db-65b1b85822f1.svg) -->
-
-
-<p align="center">
-  <!-- <img width="" height="" src="https://avatars.githubusercontent.com/u/152673060?s=400&u=32566625e044f500d81bd41567e1acbc6c987d97&v=4"> -->
-</p>
-
 Hey there, Thanks for visiting my profile... 
-<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px" height="26px"> I am Volodymyr Bufan. -->
-
-<!-- ### Checkout my Portfolio: [Volodymyr Bufan](https://bufan-ai-portfolio.vercel.app/)  👈 -->
-
-<!-- ### Checkout my flagship project: [Let's Learn Linux](https://letslearnlinux.tech/)  👈
-
-### Checkout my automation project: [Get Pair Extraordinaire](https://github.com/hightecular95908/Get-Pair-Extraordinaire)  👈 -->
-
-<!--
-### Let's Connect 🤳
-
- <a href="https://www.linkedin.com/in/hightecular95908/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Volodymyr+Bufan &color=%230077b5&logo=linkedIn&logoColor=%230077b5" alt="LinkedIn - Volodymyr Bufan"></a>
-[![Gmail - Volodymyr Bufan](https://img.shields.io/badge/Gmail-VolodymyrBufan -red?logo=gmail&logoColor=red)](pioneer95908@gmail.com)
--->
 
 ### About Me 🚀<br>
 
@@ -99,8 +78,6 @@ Feel free to contact me if you need any help.<br>
 
 ### My Projects 🙌
 
-<!-- #### [See in Portfolio](https://bufan-ai-portfolio.vercel.app/) -->
-
 ### 👨‍💻 Top Languages Used:
 <p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hightecular95908&theme=nord_dark" alt="Top Languages by Repo" />
@@ -121,13 +98,9 @@ Feel free to contact me if you need any help.<br>
 
 <p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=hightecular95908&column=6&theme=algolia" alt="hightecular95908Trophy" /></p>
 
-
-
  ![bufan's GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=hightecular95908&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
  
  <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=hightecular95908.hightecular95908" alt="hightecular95908" />
 
 </p>
 
-
-<!-- ![NewWave](https://user-images.githubusercontent.com/81550376/180223136-576934f8-2f40-4fb9-acd9-786d1d5d0f73.svg) -->
