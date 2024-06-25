@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Full Stack & Blockchain Developer</h1>
+<h1 align="center">Full Stack AI & Web3 Developer</h1>
 
 ###
 
